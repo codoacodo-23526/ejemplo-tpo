@@ -1,0 +1,21 @@
+/* NavBar*/
+nav {
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    background-color: var(--bg-color);
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 40px;
+}
+
+nav h1 {
+    color: var(--primary-color);
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;    
+    gap: 40px;
+}

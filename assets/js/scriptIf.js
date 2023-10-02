@@ -73,5 +73,15 @@ if (edadMia < 16){
 
 /* ciclos repetitivos*/
 
+/* CREACION DE RAMAS 
+
+1) GIT BRANCH --> Veo listado de mis ramas
+
+2) GIT CHECKOUT -b nombreRama --> creo una rama a partir de la que StylePropertyMapReadOnly
+
+3) GIT CHECKOUT nombreRama --> me muevo de rama 
+
+****/
+
 
 /*  * */

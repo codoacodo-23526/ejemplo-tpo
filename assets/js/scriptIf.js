@@ -67,3 +67,9 @@ if (edadMia < 16){
 /* IF TERNARIO */
 
 (edadMia < 16) ? alert("Usted es menor de edad") : alert("Usted es mayor de edad");
+
+
+/* nueva funcionalidad*/
+
+/* ciclos repetitivos*/
+
